@@ -1,0 +1,124 @@
+body {
+  background-color: #393E46;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #58287F;
+}
+
+.container {
+  width: 75%;
+  margin: auto;
+  text-align: center;
+}
+
+.container2 {
+  width: 75%;
+  margin: auto;
+  text-align: center;
+}
+
+.rez1 {
+  /* background: #ECE8DD; */
+  /* width: 60px;
+  height: 90px; */
+  color: #4ECCA3;
+  padding: 5px;
+  display: inline-block;
+  text-align: center;
+  font-size: 4rem;
+  display: inline-block;
+}
+
+.znak {
+  display: inline-block;
+  margin: 10px;
+  font-size: 6rem;
+  color: #ADA2FF;
+  /* position: relative;
+  bottom: 10px; */
+}
+
+
+.rez2 {
+  /* background: #ECE8DD; */
+  /* width: 60px;
+  height: 90px; */
+  color: #4ECCA3;
+  padding: 5px;
+  display: inline-block;
+  text-align: center;
+  font-size: 4rem;
+  display: inline-block;
+}
+
+.ravno {
+  display: inline-block;
+  margin: 10px;
+  font-size: 6rem;
+  color: #ADA2FF;
+  /* position: relative;
+  bottom: 30px; */
+}
+
+.rez3 {
+  /* background: #ECE8DD; */
+  /* width: 60px;
+  height: 90px; */
+  color: #4ECCA3;
+  padding: 5px;
+  display: inline-block;
+  text-align: center;
+  font-size: 4rem;
+  display: inline-block;
+}
+
+.numbers {
+  margin-top: 50px;
+  text-align: center;
+}
+
+.powers {
+  margin-top: 20px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.operations {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.chislo {
+  color: #ADA2FF;
+  margin: 5px;
+}
+
+.power {
+  color: #4ECCA3;
+  margin: 5px;
+}
+
+.op {
+  margin: 5px 5px;
+}
+
+.chislo:hover {
+  color: #ADA2FF;
+}
+
+.power:hover {
+  color: #4ECCA3;
+}
+
+.reset {
+  margin: 3px;
+}
+
+.getus {
+  margin: 3px;
+}
